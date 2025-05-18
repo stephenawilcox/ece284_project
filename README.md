@@ -1,0 +1,2 @@
+starter.txt
+proposal/*

@@ -1,0 +1,45 @@
+starter.txt
+data
+proposal
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+ece284_project/
+.env/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# JetBrains IDEs (PyCharm, IntelliJ, etc.)
+.idea/
+
+# Data folder
+data/
+
+# Build/output files
+dist/
+build/
+*.egg-info/
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
